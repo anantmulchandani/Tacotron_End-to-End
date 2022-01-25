@@ -9,4 +9,3 @@ Implementation of:
 
 * [https://github.com/keithito/tacotron](https://github.com/keithito/tacotron)
 * [https://github.com/r9y9/wavenet_vocoder](https://github.com/r9y9/wavenet_vocoder)
-* Special thanks to github users [G-Wang](https://github.com/G-Wang), [geneing](https://github.com/geneing) & [erogol](https://github.com/erogol)
